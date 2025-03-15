@@ -1,0 +1,15 @@
+.section-two-list {
+  display: flex;
+  gap: 30px;
+}
+.sectoin-two-item {
+        width: calc();
+}
+.button {
+  margin: 50px auto;
+  display: block;
+}
+.title-section-two {
+        max-width: 539px;
+        margin: 0 auto;
+}
